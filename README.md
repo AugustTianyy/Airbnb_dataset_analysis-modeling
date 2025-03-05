@@ -3,7 +3,7 @@ This project focuses on analyzing the Airbnb dataset using Python to identify ke
 
 ## 📊 Project Overview
 - **Objective**: Identify key factors influencing Airbnb pricing and predict prices using machine learning models.  
-- **Approach**: Utilized data analysis (Pandas, NumPy), visualization (Matplotlib, Seaborn), and machine learning models (Random Forest, XGBoost, Neural Network).  
+- **Approach**: Utilized data analysis (Pandas, NumPy), visualization (Matplotlib, Seaborn), and machine learning models (Random Forest, XGBoost, SVR and Neural Network).  
 - **Outcome**: Achieved consistent performance across multiple models and provided insights into the impact of different features on pricing.  
 
 ## 📁 Files in Repository
