@@ -7,7 +7,7 @@ This project focuses on analyzing the Airbnb dataset using Python to identify ke
 - **Outcome**: Achieved consistent performance across multiple models and provided insights into the impact of different features on pricing.  
 
 ## 📁 Files in Repository
-- **data/**: Contains the Airbnb dataset.  
+- **data/**: Contains the Airbnb dataset (`AB_NYC_2019.csv`).  
 - **notebooks/**: Jupyter notebooks for data analysis and modeling.  
 
 ## 🚀 How to Run the Project
