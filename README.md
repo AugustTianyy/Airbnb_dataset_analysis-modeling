@@ -14,15 +14,15 @@ This project focuses on analyzing the Airbnb dataset using Python to identify ke
 1. **Clone the repository**:  
    ```bash
    git clone https://github.com/AugustTianyy/Airbnb_dataset_analysis-modeling.git
-2. Navigate to the project directory:
+2. **Navigate to the project directory**:
     ```bash
     cd Airbnb_dataset_analysis-modeling
-3. Install required packages:
+3. **Install required packages**:
    ```bash
    pip install -r requirements.txt
-4. Launch Jupyter Notebook:
+4. **Launch Jupyter Notebook**:
    ```bash
    jupyter notebook
-5. Run the analysis: Execute the cells sequentially to perform data cleaning, feature engineering, visualization, and model training.
-6. Explore results: After running all cells, check the output and plots for insights into key factors affecting Airbnb pricing.
+5. **Run the analysis**: Execute the cells sequentially to perform data cleaning, feature engineering, visualization, and model training.
+6. **Explore results**: After running all cells, check the output and plots for insights into key factors affecting Airbnb pricing.
 
