@@ -23,8 +23,8 @@ This project focuses on analyzing the Airbnb dataset using Python to identify ke
 4. **Launch Jupyter Notebook**:
    ```bash
    jupyter notebook
-5. **Run the analysis**:
+5. **Run the analysis**:  
 Execute the cells sequentially to perform data cleaning, feature engineering, visualization, and model training.
-8. **Explore results**:
+8. **Explore results**:  
 After running all cells, check the output and plots for insights into key factors affecting Airbnb pricing.
 
