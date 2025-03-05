@@ -11,7 +11,7 @@ This project focuses on analyzing the Airbnb dataset using Python to identify ke
 - **notebooks/**: Jupyter notebooks for data analysis and modeling.  
 
 ## 🚀 How to Run the Project
-1. Clone the repository:  
+1. **Clone the repository**:  
    ```bash
    git clone https://github.com/AugustTianyy/Airbnb_dataset_analysis-modeling.git
 2. Navigate to the project directory:
